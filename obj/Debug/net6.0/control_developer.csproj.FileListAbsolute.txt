@@ -1,0 +1,15 @@
+C:\Users\kseni\OneDrive\Рабочий стол\final_work\control_developer\bin\Debug\net6.0\control_developer.exe
+C:\Users\kseni\OneDrive\Рабочий стол\final_work\control_developer\bin\Debug\net6.0\control_developer.deps.json
+C:\Users\kseni\OneDrive\Рабочий стол\final_work\control_developer\bin\Debug\net6.0\control_developer.runtimeconfig.json
+C:\Users\kseni\OneDrive\Рабочий стол\final_work\control_developer\bin\Debug\net6.0\control_developer.dll
+C:\Users\kseni\OneDrive\Рабочий стол\final_work\control_developer\bin\Debug\net6.0\control_developer.pdb
+C:\Users\kseni\OneDrive\Рабочий стол\final_work\control_developer\obj\Debug\net6.0\control_developer.csproj.AssemblyReference.cache
+C:\Users\kseni\OneDrive\Рабочий стол\final_work\control_developer\obj\Debug\net6.0\control_developer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kseni\OneDrive\Рабочий стол\final_work\control_developer\obj\Debug\net6.0\control_developer.AssemblyInfoInputs.cache
+C:\Users\kseni\OneDrive\Рабочий стол\final_work\control_developer\obj\Debug\net6.0\control_developer.AssemblyInfo.cs
+C:\Users\kseni\OneDrive\Рабочий стол\final_work\control_developer\obj\Debug\net6.0\control_developer.csproj.CoreCompileInputs.cache
+C:\Users\kseni\OneDrive\Рабочий стол\final_work\control_developer\obj\Debug\net6.0\control_developer.dll
+C:\Users\kseni\OneDrive\Рабочий стол\final_work\control_developer\obj\Debug\net6.0\refint\control_developer.dll
+C:\Users\kseni\OneDrive\Рабочий стол\final_work\control_developer\obj\Debug\net6.0\control_developer.pdb
+C:\Users\kseni\OneDrive\Рабочий стол\final_work\control_developer\obj\Debug\net6.0\control_developer.genruntimeconfig.cache
+C:\Users\kseni\OneDrive\Рабочий стол\final_work\control_developer\obj\Debug\net6.0\ref\control_developer.dll
